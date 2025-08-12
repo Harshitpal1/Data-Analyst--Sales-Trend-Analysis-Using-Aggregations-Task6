@@ -44,10 +44,7 @@ The analysis is performed on the **`online_sales`** dataset, which contains an `
 | 2023 | 3     | 9,800           | 39             |
 
 ## ❓ Interview Questions & Answers
-This section covers the interview questions provided as part of the task.
-
 <details>
-<summary>Click to expand and see questions & answers</summary>
 
 **1. How do you group data by month and year?**  
 Use the `GROUP BY` clause after extracting the year and month from a date column:  
